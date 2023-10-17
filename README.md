@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Javascript & React.**
 
-- ⚡ Fun fact **I smoke more weed than snoop dogg.**
+- ⚡ Fun fact **Is that i smoke more weed than snoop dogg.**
 
 
 <h3 align="left">Languages and Tools:</h3>
